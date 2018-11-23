@@ -437,9 +437,9 @@
       </div>
     </div>
   </div>
-   //footer
-   js-scripts
-   js
+   <!--//footer-->
+   <!--js-scripts-->
+   <!--js-->
   <script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
   <script type="text/javascript" src="/js/bootstrap-3.1.1.min.js"></script>
   <!-- //js -->
@@ -526,8 +526,8 @@
       $('.gallery-item a').Chocolat();
     });
   </script>
-   //Popup-Box-JavaScript
-   Slide-To-Top JavaScript (No-Need-To-Change)
+   <!--//Popup-Box-JavaScript-->
+   <!--Slide-To-Top JavaScript (No-Need-To-Change)-->
   <script type="text/javascript">
     $(document).ready(function() {
       var defaults = {
@@ -556,8 +556,8 @@
       });
     });
   </script>
-   //smooth scrolling
-   //js-scripts
+   <!--//smooth scrolling-->
+   <!--//js-scripts-->
 
 
     </section>
